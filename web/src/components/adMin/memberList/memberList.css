@@ -1,0 +1,9 @@
+.seacsh{
+    text-align: left;
+    height: 45px;
+}
+
+.warppers .ant-input-affix-wrapper .ant-input:not(:first-child) {
+    text-align: left;
+    font-size: 12px;
+}

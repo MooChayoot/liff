@@ -1,0 +1,18 @@
+body {
+    background: #f0f0f0;
+}
+
+/* menu */
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+li:hover{
+    
+    background: rgb(85, 104, 148);
+}
+body {
+    background: #f0f0f0;
+    font-family: "Sukhumvit Set", sans-serif;
+}

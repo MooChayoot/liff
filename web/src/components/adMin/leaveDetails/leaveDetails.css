@@ -1,0 +1,36 @@
+.all-leaveDetails { 
+    width: 100%;
+}
+.in-leaveDetails {
+    width: 90%;
+    display: block;
+    margin: auto;
+    background-color: #fff;
+}
+/* menu */
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+li:hover{
+    
+    background: rgb(85, 104, 148);
+}
+body {
+    background: #f0f0f0;
+}
+.ant-modal-confirm-body
+ .ant-modal-confirm-title {
+
+    left: 0.5%;
+}
+.types .ant-input:placeholder-shown {
+    text-overflow: none;
+}
+.ant-input .ant-input-lg .ant-input-disabled {
+    font-size: 13px;
+} 
+.ant-btn-primary {
+    width: 71px;
+}

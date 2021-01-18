@@ -1,0 +1,84 @@
+
+.all-followhome{
+    background: #F0F0F0;
+    font-family: "Sukhumvit Set", sans-serif;
+    width: 100%;
+    display: block;
+}
+.in-allhomefollow{
+
+}
+.ant-modal-confirm-body .ant-modal-confirm-title {
+    display: block;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    left: -14.5%;
+}
+.anticon svg {
+    display: block;
+    position: inherit;
+    margin-top: 1px ;
+}
+.ant-modal-confirm-body > .anticon + .ant-modal-confirm-title + .ant-modal-confirm-content {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5px;
+    font-family: "Sukhumvit Set", sans-serif;
+}
+.ant-btn-primary {
+    color: #fff;
+    background-color: #415CA5;
+    border-color: #415CA5;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+.ant-modal-confirm .ant-modal-body {
+    padding: 20px 20px 20px;
+    margin-top: 5%;
+    height: 20%;
+    font-family: "Sukhumvit Set", sans-serif;
+}
+.ant-modal-confirm-body > .anticon + .ant-modal-confirm-title + .ant-modal-confirm-content {
+    margin-left: 0;
+    font-size: 16px;
+}
+.ant-modal-confirm .ant-modal-confirm-btns {
+    float: right;
+}
+.ant-modal-confirm-warning .ant-modal-confirm-body > .anticon, .ant-modal-confirm-confirm .ant-modal-confirm-body > .anticon {
+    color: #faad14;
+    font-family: "Sukhumvit Set", sans-serif;
+    margin-left: 31%;
+    text-align: center;
+    margin-top: 3px;
+}
+.ant-modal-confirm-body > .anticon {
+    float: left;
+    margin-right: -7px;
+    font-size: 20px;
+    font-family: "Sukhumvit Set", sans-serif;
+}
+.ant-menu-horizontal > .ant-menu-item > a:hover{
+    color:#415CA5 !important;
+}
+.ant-menu-item > a:hover{
+    color:#415CA5 !important;
+} 
+
+/* menu */
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+li:hover{
+    
+    background: rgb(85, 104, 148);
+}
+body {
+    background: #f0f0f0;
+}

@@ -1,0 +1,93 @@
+.all-saveLeave{
+    width: 100%;
+    display: block;
+    /* height: 100vh; */
+
+}
+.in-saveLeave{
+    width: 90%;
+    display: block;
+    margin: auto;
+    background-color: #fff;
+    /* height: 95vh; */
+}
+
+/* menu */
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+li:hover{
+    
+    background: rgb(85, 104, 148);
+}
+body {
+    background: #f0f0f0;
+}
+.ant-select-selection-selected-value {
+    float: left;
+}
+.aa{
+    color: grey !important;
+    font-size: 12px;
+
+}
+
+.superman .ant-select-arrow .ant-select-arrow-icon svg {
+    display: none;
+}
+.superman .ant-select-selection-selected-value {
+    text-align: left;
+}
+.superman .ant-select-selection__rendered {
+    width: 90%;
+}
+
+.superman-leave .ant-select-arrow .ant-select-arrow-icon svg {
+    display: none;
+}
+
+/* ดูดีๆมี s อยู่ */
+.supermans .ant-select-selection__rendered {
+    width: 90%;
+}
+.supermans .ant-select-arrow .ant-select-arrow-icon svg {
+    display: none;
+}
+/* ปฎิทิน */
+.ant-calendar-input {
+    width: 100%;
+    display: none;
+    height: 22px;
+    color: rgba(0, 0, 0, 0.65);
+    background: #fff;
+    border: 0;
+    outline: 0;
+    cursor: auto;
+}
+.ant-calendar-input-wrap {
+    height: 34px;
+    display: none;
+    padding: 6px 10px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+/* ลบกากบาทใน input ปฎิทิน */
+.ant-calendar-picker:hover .ant-calendar-picker-clear {
+    display: none;
+    opacity: 1;
+    pointer-events: auto;
+}
+.ant-select-disabled .ant-select-selection {
+    background: #FFF;
+    cursor: not-allowed;
+}
+
+
+.ant-calendar-picker-input.ant-input {
+    line-height: 1.5;
+    font-size: 13px;
+    font-family:Sukhumvit Set, sans-serif;
+    margin-top: 5px;
+}

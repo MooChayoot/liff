@@ -1,0 +1,14 @@
+.ant-upload-picture-card-wrapper {
+    display: flex;
+}  
+.avatar-uploader > .ant-upload {
+    width: 128px;
+    height: 128px;
+    border-radius:10rem;
+    border:none;
+
+}
+.ant-upload-picture-card-wrapper::before, .ant-upload-picture-card-wrapper::after {
+display: block;
+margin:  auto;
+}

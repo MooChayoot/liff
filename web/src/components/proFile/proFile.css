@@ -1,0 +1,25 @@
+
+.all-proFile{
+    font-family: "Sukhumvit Set", sans-serif;
+    width: 100%;
+    display: block;
+}
+/* menu */
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+li:hover{
+    
+    background: rgb(85, 104, 148);
+}
+
+body {
+    background: #f0f0f0;
+}
+.ant-input-affix-wrapper .ant-input:not(:first-child) {
+    text-align: right ;
+    font-size: 14px;
+    font-family: Sukhumvit Set, sans-serif;
+}

@@ -1,0 +1,28 @@
+
+.all-showLeave { 
+    width: 100%;
+    display: block;
+
+}
+.in-showLeave {
+    width: 90%;
+    display: block;
+    margin: auto;
+    background-color: #fff;
+    height: 95vh;
+}
+
+/* menu */
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+li:hover{
+    
+    background: rgb(85, 104, 148);
+}
+body {
+    background: #f0f0f0;
+}
+

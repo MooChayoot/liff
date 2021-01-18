@@ -1,0 +1,36 @@
+.all{
+    width: 100%;
+    display: block;
+    height: 100vh;
+}
+.in-all{
+    width: 90%;
+    display: block;
+    margin: auto;
+    background-color: #fff;
+}
+
+.ant-input[disabled] {
+    color: rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    font-family: Sukhumvit Set, sans-serif; 
+}
+.ant-upload-list-item-name {
+    color: #BFBFBF;
+}
+
+
+/* menu */
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+li:hover{
+    
+    background: rgb(85, 104, 148);
+}
+body {
+    background: #f0f0f0;
+}
+

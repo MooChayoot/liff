@@ -1,0 +1,55 @@
+.ant-spin-nested-loading > div > .ant-spin .ant-spin-text {
+    position: absolute;
+    display:block;
+    justify-content:center;
+    align-items: center;
+
+}
+.ant-spin-nested-loading > div > .ant-spin .ant-spin-dot {
+    position: absolute;
+    display:block;
+    justify-content:center;
+    align-items: center;
+}
+.ant-spin-nested-loading > div > .ant-spin.ant-spin-show-text .ant-spin-dot {
+    margin-top: 40vh;
+}
+.ant-spin-nested-loading > div > .ant-spin .ant-spin-text {
+    position: absolute;
+    top: 0;
+    margin-top: 45vh;
+    display: block;
+    padding-top: 5px;
+    justify-content: center;
+    text-shadow: 0 1px 2px #fff;
+}
+.ant-spin-dot-item {
+    margin: auto;
+}
+
+.ant-input-group > .ant-input:last-child, .ant-input-group-addon:last-child {
+    background: #fff;
+}
+.ant-input-group > .ant-input-affix-wrapper:not(:last-child) .ant-input {
+
+    border-right: none;
+}
+.all-register{
+    background: #F0F0F0;
+    font-family: "Sukhumvit Set", sans-serif;
+    width: 100%;
+    display: block;
+}
+body {
+    background: #f0f0f0;
+}
+.supermankub .ant-select-selection--single .ant-select-selection__rendered {
+    float: right;
+}
+.supermankub .ant-input-affix-wrapper .ant-input:not(:first-child) {
+    font-size: 12px
+}
+
+.supermankub .ant-input-group-addon .ant-select .ant-select-selection {
+    margin-top: 5px;
+}

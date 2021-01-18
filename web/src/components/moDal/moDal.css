@@ -1,0 +1,29 @@
+
+.ant-modal-content {
+    position: relative;
+    background-color: #fff;
+    border-radius: 0.8rem;
+    pointer-events: auto;
+}
+
+.ant-modal-body {
+    text-align: center;
+}
+
+.ant-modal-close-x {
+    display: none;
+   
+}
+.ant-modal-confirm-warning .ant-modal-confirm-body > .anticon, .ant-modal-confirm-warning .ant-modal-confirm-body > .anticon {
+    color: #faad14;
+    font-family: "Sukhumvit Set", sans-serif;
+    margin-left: 10%;
+    display: none;
+    text-align: center;
+    margin-top: 3px;
+    float: none !important;
+}
+
+.ant-modal-confirm .ant-modal-confirm-btns  {
+    float: none;
+}

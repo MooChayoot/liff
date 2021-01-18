@@ -1,0 +1,37 @@
+.all-home{
+    background: #F0F0F0;
+    font-family: "Sukhumvit Set", sans-serif;
+    width: 100%;
+    display: block;
+}
+
+/* menu */
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+li:hover{
+    
+    background: rgb(85, 104, 148);
+}
+body {
+    background: #f0f0f0;
+}
+
+.ant-skeleton-with-avatar .ant-skeleton-content .ant-skeleton-title + .ant-skeleton-paragraph {
+    margin-top: 2px;
+}
+.ant-skeleton-with-avatar .ant-skeleton-content .ant-skeleton-title {
+    margin-top: 10px;
+    height: 20px;
+}
+.ant-skeleton-header .ant-skeleton-avatar-lg.ant-skeleton-avatar-circle {
+    border-radius: 50%;
+    display: none;
+}
+.ant-skeleton-with-avatar .ant-skeleton-content .ant-skeleton-title {
+    margin-top: 10px;
+    display: none;
+    height: 20px;
+}
